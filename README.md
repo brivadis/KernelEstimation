@@ -16,6 +16,6 @@ to obtain figures 1 and 2 of the paper.
 <br/><br/>
 
 <p align="center">
-	<img src="https://github.com/sacchelli/KernelEstimation/blob/main/Videos/estimation.gif" title="Evolution of the estimated kernel">
+	<img src="https://github.com/sacchelli/KernelEstimation/blob/main/Videos/fig2.gif" title="Evolution of the estimated kernel">
 </p>
 <figure>
