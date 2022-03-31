@@ -16,6 +16,11 @@ to obtain figures 1 and 2 of the paper.
 <br/><br/>
 
 <p align="center">
+	<img src="https://github.com/brivadis/KernelEstimation/blob/main/fig1.jpg" title="Convergence of the adaptive observer">
+</p>
+<figure>
+
+<p align="center">
 	<img src="https://github.com/brivadis/KernelEstimation/blob/main/fig2.gif" title="Evolution of the estimated kernel">
 </p>
 <figure>
