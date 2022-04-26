@@ -2,8 +2,8 @@
 
 Supplementary material to the article ''Online estimation of Hilbert-Schmidt operators and application to kernel reconstruction of neural fields''
 
-This page contains code for the numerical experiments of the paper [Online estimation of Hilbert-Schmidt operators and application to
-kernel reconstruction of neural fields](https://hal.archives-ouvertes.fr/hal-???????????????) by Lucas Brivadis, Antoine Chaillet and Jean Auriol.
+This page contains code for the numerical experiments of the paper Online estimation of Hilbert-Schmidt operators and application to
+kernel reconstruction of neural fields by Lucas Brivadis, Antoine Chaillet and Jean Auriol.
 
 ## How to reproduce the experiments of the paper
 
