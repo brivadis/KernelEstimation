@@ -26,6 +26,6 @@ to obtain the figures of the paper.
 <figure>
 
 <p align="center">
-	<img src="https://github.com/brivadis/KernelEstimation/blob/No-delays/fig1.jpg" title="Convergence of the adaptive observer">
+	<img src="https://github.com/brivadis/KernelEstimation/blob/main/obs.jpg" title="Convergence of the adaptive observer">
 </p>
 <figure>
