@@ -21,7 +21,7 @@ to obtain the figures of the paper.
 <br/><br/>
 
 <p align="center">
-	<img src="https://github.com/brivadis/KernelEstimation/blob/No-delays/fig2.gif" title="Evolution of the estimated kernel">
+	<img src="https://github.com/brivadis/KernelEstimation/blob/main/obs_gif.gif" title="Evolution of the estimated kernel">
 </p>
 <figure>
 
