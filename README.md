@@ -1,6 +1,6 @@
 # KernelEstimation
 
-Supplementary material to the article ''[Online estimation of Hilbert-Schmidt operators and application to kernel reconstruction of neural fields]''(https://www.google.com/url?q=https%3A%2F%2Fdoi-org.ezproxy.universite-paris-saclay.fr%2F10.1109%2FCDC51059.2022.9992414&sa=D) by L. Brivadis, A. Chaillet and J. Auriol.
+Supplementary material to the article ''[Online estimation of Hilbert-Schmidt operators and application to kernel reconstruction of neural fields](https://www.google.com/url?q=https%3A%2F%2Fdoi-org.ezproxy.universite-paris-saclay.fr%2F10.1109%2FCDC51059.2022.9992414&sa=D)'' by L. Brivadis, A. Chaillet and J. Auriol.
 
 This page contains code for the numerical experiments of the paper Online estimation of Hilbert-Schmidt operators and application to
 kernel reconstruction of neural fields by Lucas Brivadis, Antoine Chaillet and Jean Auriol.
