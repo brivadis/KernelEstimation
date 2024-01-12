@@ -6,7 +6,7 @@ by L. Brivadis, A. Chaillet and J. Auriol.
 
 This page contains code for the numerical experiments of these papers in the branches main and No-delay, respectively. Additional pertubations can be added in the branch With-delays for the second paper.
 
-## How to reproduce the experiments of the paper
+## How to reproduce the experiments of the papers
 
 From inside the main folder, run
 	```
@@ -20,7 +20,7 @@ From inside the main folder, run
 	```
 	matlab KernelEstimation_delay_pertubations.m
 	```
-to obtain the figures of the paper.
+to obtain the figures of the papers.
 
 <br/><br/>
 
